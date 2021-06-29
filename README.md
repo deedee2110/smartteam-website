@@ -1,13 +1,13 @@
-# Smart team website
+# Smart team website 📌
 
 Hi! This is smart team website code (Website url coming soon!)
 
-# Project
+# Project 
 
 - Smart team full website
-- Copyright
-
-# Contrubute code
+- Copyright ©️
+ 
+# Contrubute code 🔡
 
 - Please open an issue for feature request.
 - Open a PR - Please describe the benefit of your PR and run some basic testing. I should not be the one to test and fix your 'feature' or 'enhancement'.
@@ -19,10 +19,10 @@ Hi! This is smart team website code (Website url coming soon!)
 
 <a href="https://github.com/ronnapatsri/smartteam-website/tree/main/copyright">Click here to see copyright</a>
 
-# Auther
+# Auther 🖋️
 - <a href="https://github.com/ronnapatsri">ronnapatsri</a>
 
-# Page in website
+# Page in website 📂
 
 - Home page
 - Store page
@@ -32,7 +32,7 @@ Hi! This is smart team website code (Website url coming soon!)
 - Terms page
 - Policy-privacy page
 
-# languages in website
+# languages in website 🌏
 
 - English (base)
 - Thai
@@ -47,4 +47,17 @@ Hi! This is smart team website code (Website url coming soon!)
 V 1.0.0
 
 # Have a comment??
+
 - Add comment file in comment folder
+
+## Have a issues?
+
+- Add your issues in issues report section
+
+# Made with..
+
+- HTML
+- CSS
+- JAVA SCRIPT
+- Godaddy (Domain and hosting)
+
