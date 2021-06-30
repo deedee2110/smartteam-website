@@ -1,0 +1,15 @@
+head{
+    background-color: aliceblue;
+}
+.first{
+    position: ;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40%;
+    background-color: gray;
+    color: black;
+}
+.same{
+    display: inline;
+}
