@@ -7,7 +7,7 @@ Hi! This is smart team website code (Website url coming soon!)
 - Smart team full website
 - Copyright ©️
  
-# Contrubute code 🔡
+# Contribute code 🔡
 
 - Please open an issue for feature request.
 - Open a PR - Please describe the benefit of your PR and run some basic testing. I should not be the one to test and fix your 'feature' or 'enhancement'.
